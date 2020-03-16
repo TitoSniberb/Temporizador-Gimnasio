@@ -1,0 +1,7 @@
+{
+  "name": "Temporizador",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
