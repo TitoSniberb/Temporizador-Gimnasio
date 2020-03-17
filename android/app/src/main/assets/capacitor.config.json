@@ -1,6 +1,7 @@
 {
   "appId": "com.temporizador.app",
   "appName": "Temporizador",
+  "windowsAndroidStudioPath": "D:\\Android Studio\\bin\\studio64.exe",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
